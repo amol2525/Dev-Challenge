@@ -7,7 +7,7 @@ addons:
     packages:
       - oracle-java8-installer
 before_install:
-  - chmod +x grawlew
+  - chmod +x gradlew
 
 script:
   - ./gradlew build --scan -s
