@@ -1,0 +1,10 @@
+server:
+  port: 18080
+  
+security:
+  basic:
+    enabled: false
+    
+management:
+  security:
+    enabled: false
