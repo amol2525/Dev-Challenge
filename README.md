@@ -1,5 +1,6 @@
 # Dev-Challenge
    
+#Build status https://api.travis-ci.com/amol2525/Dev-Challenge.svg?branch=master
    
 #Introduction
    
